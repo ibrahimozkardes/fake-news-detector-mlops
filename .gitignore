@@ -1,0 +1,13 @@
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Kütüphane ve ortam dosyaları
+env/
+venv/
+
+# Model dosyaları
+*.h5
