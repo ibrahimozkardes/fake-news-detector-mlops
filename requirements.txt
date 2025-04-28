@@ -1,4 +1,21 @@
 pandas
 numpy
 scikit-learn
+joblib
 jupyter
+
+# NLP tools
+nltk
+spacy
+
+# Data visualization
+matplotlib
+seaborn
+
+# MLOps tools
+mlflow  # For model tracking and versioning
+pytest  # For unit testing
+
+# Web application
+flask  # For API development
+gunicorn  # Production WSGI server
