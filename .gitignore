@@ -11,3 +11,4 @@ venv/
 
 # Model dosyaları
 *.h5
+*.pkl
